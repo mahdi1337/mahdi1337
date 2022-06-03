@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm MAHDI ABiD</h1>
 <h3 align="center">𝗜'𝗺 𝗮 Holberton School 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 student 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 gaming 𝗮𝗻𝗱 developing.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdixabid&label=Profile%20views&color=0e75b6&style=flat" alt="mahdixabid" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdixabid" alt="mahdixabid" /></a> </p>
 
 - 🌱 I’m currently learning **Full stack web development**
 
